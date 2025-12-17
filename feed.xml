@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Profe. Lucas</title>
-    <link href="https://lucasramosuy.github.io/playground/feed.xml" rel="self" />
-    <link href="https://lucasramosuy.github.io/playground" />
+    <link href="https://profe.lucasramos.uy/feed.xml" rel="self" />
+    <link href="https://profe.lucasramos.uy" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Lucas González Ramos</name>
     </author>
-    <id>https://lucasramosuy.github.io/playground</id>
+    <id>https://profe.lucasramos.uy</id>
 
 </feed>

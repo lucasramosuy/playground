@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucasramosuy.github.io/playground/sitemap.xml
